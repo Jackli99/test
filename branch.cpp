@@ -5,6 +5,6 @@ int main()
 {
 	cout << "learning git !!!" << endl;
 	cout << "branch manage " << endl;
-	cout << "dev branch1" <<endl;
+	cout << "dev branch2" <<endl;
 	return 0;
 }
